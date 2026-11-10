@@ -2,7 +2,10 @@ what does this project do
 what tech stack this project used
 explain the project structure to me
 
- # Instructions
+run this application:
+.\venv\Scripts\python.exe app.py
+
+# Instructions
 
 1. start a new claude session
 2. rename the session to ‘`database setup`’
